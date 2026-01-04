@@ -1,0 +1,8 @@
+{
+  "name": "Copy of entrega facil",
+  "description": "Multi-store iFood delivery management system with AI dispatching, smart inventory control, and real-time courier tracking.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
